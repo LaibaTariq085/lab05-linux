@@ -1,0 +1,18 @@
+total 72
+drwxr-x--- 11 laibatariq085 laibatariq085 4096 Oct 16 04:54 .
+drwxr-xr-x  3 root          root          4096 Sep 16 16:34 ..
+-rw-------  1 laibatariq085 laibatariq085 4465 Oct 10 13:03 .bash_history
+-rw-r--r--  1 laibatariq085 laibatariq085  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 laibatariq085 laibatariq085 3771 Feb 13  2026 .bashrc
+drwx------  2 laibatariq085 laibatariq085 4096 Sep 16 16:47 .cache
+-rw-rw-r--  1 laibatariq085 laibatariq085  188 Oct 16 04:30 .gitconfig
+-rw-------  1 laibatariq085 laibatariq085   20 Oct 16 04:54 .lesshst
+drwx------  3 laibatariq085 laibatariq085 4096 Oct 16 04:46 .local
+-rw-r--r--  1 laibatariq085 laibatariq085  807 Feb 13  2026 .profile
+drwx------  3 laibatariq085 laibatariq085 4096 Oct 16 04:29 .ssh
+drwxrwxr-x  3 laibatariq085 laibatariq085 4096 Oct  7 17:48 Assignment01
+drwxrwxr-x  3 laibatariq085 laibatariq085 4096 Oct  7 14:44 CC
+drwxrwxr-x  3 laibatariq085 laibatariq085 4096 Oct  7 15:01 Gitea
+drwxrwxr-x  5 laibatariq085 laibatariq085 4096 Oct 16 04:47 lab05-linux
+drwxrwxr-x  3 laibatariq085 laibatariq085 4096 Oct  7 18:20 laibatariq085.github.io
+drwxrwxr-x  2 laibatariq085 laibatariq085 4096 Sep 19 17:59 mylab
