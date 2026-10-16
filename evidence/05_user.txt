@@ -1,0 +1,1 @@
+lab5user:x:1001:1001:Laiba Tariq,2024-BSE-85,222222222222,333333333333,1111111111111:/home/lab5user:/bin/bash
